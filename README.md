@@ -9,8 +9,16 @@ Sizhe Liu
 # Solutions
 
 1. [Pulsing Flower](https://www.shadertoy.com/view/f3c3RH)
+
+![Pulsing Flower](images/pulsing-flower.gif)
+
 2. [Spinning Flower](https://www.shadertoy.com/view/7XcGz8)
+
+![Spinning Flower](images/spinning-flower.gif)
+
 3. [Sun Flower](https://www.shadertoy.com/view/s3c3z8#)
+
+![Sun Flower](images/sun-flower.gif)
 
 # Setup 
 
